@@ -1,0 +1,33 @@
+{
+  "output": "public/ja/printable.md",
+  "sources": [
+    "public/ja/index.md",
+    "public/ja/what-is-gender.md",
+    "public/ja/history.md",
+    "public/ja/euphoria.md",
+    "public/ja/physical-dysphoria.md",
+    "public/ja/biochemical-dysphoria.md",
+    "public/ja/social-dysphoria.md",
+    "public/ja/societal-dysphoria.md",
+    "public/ja/sexual-dysphoria.md",
+    "public/ja/presentational-dysphoria.md",
+    "public/ja/existential-dysphoria.md",
+    "public/ja/managed-dysphoria.md",
+    "public/ja/impostor-syndrome.md",
+    "public/ja/am-i-trans.md",
+    "public/ja/diagnoses.md",
+    "public/ja/treatment.md",
+    "public/ja/causes.md",
+    "public/ja/chromosomes.md",
+    "public/ja/hormones.md",
+    "public/ja/second-puberty-masc.md",
+    "public/ja/second-puberty-fem.md",
+    "public/ja/conclusion.md"
+  ],
+  "meta": {
+    "title": "性別違和指南",
+    "description": "性別違和のさまざまな表れ方と、トランスジェンダーであることの意味について。",
+    "classes": [ "gdb", "longform" ],
+    "preBody": "_disclaimer"
+  }
+}
